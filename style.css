@@ -1,0 +1,114 @@
+.polni {
+background-color: rgb(255, 255, 255);
+width: 1000px;
+padding-bottom: 100px;
+display: flex;
+gap: 50px;
+border-radius: 20px;
+box-shadow: 10px 5px 5px rgba(16, 40, 255, 0.677);
+} 
+span {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+.assyl { 
+    margin-left: 150px;
+   border-radius: 50%;
+   width: 200px;
+   height: 200px;
+   background-color: rgb(65, 73, 229);
+  
+}
+.kazakh {
+    padding-top: 10px;
+    width: 500px;
+    background-color: blue;
+    color: azure;
+    text-align:center;
+    
+    border-radius:30px;
+
+}
+p {
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.696);
+
+}
+.wertf  {
+color: rgb(8, 8, 112);
+}
+.Reaction {
+    width: 280px;
+    height: 60px;
+    background-color:hsla(343, 100%, 50%, 0.137);
+    display: grid;
+    grid-template-columns: 1px 190px 130px;
+    place-content: center;
+    padding-left: 20px;
+    border-radius: 10px;
+    color: red;
+    
+    
+}
+.memory {
+    display: flex;
+    color: yellow;
+    background-color: rgba(228, 228, 146, 0.619);
+    border-radius:10px;
+}
+.verbal {
+    display: flex;
+    color: greenyellow;
+    background-color:rgba(207, 255, 136, 0.475) ;
+    border-radius:10px;
+}
+.visyal {
+    display: flex;
+    color: blue;
+    background-color: rgba(164, 164, 255, 0.643);
+    border-radius:10px;
+   
+   
+}
+h3 {
+    font-weight: 900;
+}
+.continue  {
+    background-color: rgb(8, 8, 112);
+    border-radius: 30px;
+    color: azure;
+    height: 80px;
+    text-align: center;
+    padding-top: 1px;
+    
+} 
+  body {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+   
+  }
+    h6 {
+        font-weight: bold;
+        color: rgba(255, 255, 255, 0.696);
+    }
+   .bigger {
+    display: grid;
+    grid-row: repeat(4,70px);
+    gap: 10px;
+    place-content: center;
+    text-align: center;
+   }
+.Reaction h3 {
+    font-size: 20px;
+}
+.Reaction img {
+ padding-top: 25px;
+}
+.assyl h1 {
+padding-top: 50px;
+}
+.your {
+   font-style: 20px;
+}
